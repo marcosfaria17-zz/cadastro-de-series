@@ -1,0 +1,13 @@
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.exe
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.deps.json
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.json
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.runtimeconfig.dev.json
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\bin\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csprojAssemblyReference.cache
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfoInputs.cache
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.AssemblyInfo.cs
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.csproj.CoreCompileInputs.cache
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.dll
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.pdb
+C:\Users\marco\Google Drive\Estudando\GFT START #2 .NET\cadastro-de-series\Dio.Series\obj\Debug\netcoreapp3.1\Dio.Series.genruntimeconfig.cache

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marco\\Google Drive\\Estudando\\GFT START #2 .NET\\cadastro-de-series\\Dio.Series\\Dio.Series.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marco\\Google Drive\\Estudando\\GFT START #2 .NET\\cadastro-de-series\\Dio.Series\\Dio.Series.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marco\\Google Drive\\Estudando\\GFT START #2 .NET\\cadastro-de-series\\Dio.Series\\Dio.Series.csproj",
+        "projectName": "Dio.Series",
+        "projectPath": "C:\\Users\\marco\\Google Drive\\Estudando\\GFT START #2 .NET\\cadastro-de-series\\Dio.Series\\Dio.Series.csproj",
+        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marco\\Google Drive\\Estudando\\GFT START #2 .NET\\cadastro-de-series\\Dio.Series\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
